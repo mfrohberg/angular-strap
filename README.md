@@ -1,4 +1,5 @@
 # [AngularStrap](http://mgcrea.github.io/angular-strap) [![Build Status](https://secure.travis-ci.org/mgcrea/angular-strap.svg?branch=master)](http://travis-ci.org/mgcrea/angular-strap) [![devDependency Status](https://david-dm.org/mgcrea/angular-strap/dev-status.svg)](https://david-dm.org/mgcrea/angular-strap#info=devDependencies) [![Coverage Status](https://coveralls.io/repos/mgcrea/angular-strap/badge.png?branch=master)](https://coveralls.io/r/mgcrea/angular-strap?branch=master)
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/mfrohberg/angular-strap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Banner](http://mgcrea.github.io/angular-strap/images/snippet.png)](http://mgcrea.github.io/angular-strap)
 
